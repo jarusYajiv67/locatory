@@ -1,4 +1,5 @@
 # Locatory - Your Directory For Places
+Locatory is a mobile app that allows you to discover and save places near you and is available in 6 languages (English, Mandarin, Hindi, French, Arabic, Russian)
 ##### Demo video - TBU 
 ##### Download Locatory from [here](https://bit.ly/locatory-apk)
 #### Table of contents (with TTR)
